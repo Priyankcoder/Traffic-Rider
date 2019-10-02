@@ -7,6 +7,6 @@ With increase in score,level increases and so the speed of player car.
 Controls:
 
 1. Use left arrow and right arrow key to move left and right respectively.
-2. Use upper arrow key to accelerate.
-3.Use lower key to apply brakes.
+2. Use upper arrow key to accelerate and lower arrow key to apply break
+
 
